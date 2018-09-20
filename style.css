@@ -6,5 +6,14 @@ footer.fixed-bottom{
     height: 80px;
     background-color: blue;
     
-
 }
+
+.preview-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+   }
