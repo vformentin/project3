@@ -23,12 +23,12 @@ footer.fixed-bottom{
     }*/
 
 footer {
-        padding: 12px;
+        padding: 16px;
         background-color: #E5E5E5;
         text-align: right;
         font-family: 'Oswald', sans-serif;
         font-weight: 300;
-        font-size: 12px;
+        font-size: 16px;
         color: #4A4A4A;
     }
 
@@ -54,4 +54,29 @@ footer {
 .navbar-dark .navbar-nav .nav-link {
     color: white;
     align-content: right;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 3px solid #4A4A4A;
+    display: inline-block;
+
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1D497B;
+    border-color: #1D497B;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    border-radius: 4px;
 }
