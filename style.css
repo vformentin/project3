@@ -68,7 +68,6 @@ footer {
     align-items: center;
 }
 
-}
 
 h1 {
     font-family: 'Oswald', sans-serif;
@@ -102,7 +101,7 @@ h1 {
 
 .social-media {
     display: flex;
-    justify-content: center;
+    justify-content: right;
 }
 
 .artist-row {
@@ -119,5 +118,9 @@ h1 {
 .artist-image {
     width: 100%; 
     height: auto; 
+}
+
+.rights {
+    padding: 20px;
 }
 
